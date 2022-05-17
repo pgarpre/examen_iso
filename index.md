@@ -3,4 +3,4 @@
 - Pablo García Presa 
 
 [Examen formato md](Garcia_Presa,Pablo-examen.md)
-[Ecamen formato pdf](Garcia_Presa,Pablo-examen.pdf)
+[Examen formato pdf](Garcia_Presa,Pablo-examen.pdf)
